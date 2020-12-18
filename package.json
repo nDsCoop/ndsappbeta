@@ -98,7 +98,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts --max_old_space_size=2048 build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },

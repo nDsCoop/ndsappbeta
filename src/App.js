@@ -13,7 +13,7 @@ import PrivateRoute from "./pages/PrivateRoute";
 // import Login from './pages/Login';
 // import Page3 from './pages/Page3';
 // import Page4 from './pages/Page4';
-// import About  from './pages/About';
+import About  from './pages/About';
 import Maintenance from './pages/Maintenance';
 
 
@@ -42,10 +42,11 @@ class App extends Component {
 					<Route path="/login">
 						<Login/>
 					</Route> 
+					*/}
 
 					<Route path="/about">
 						<About/>
-					</Route> */}
+					</Route> 
 					{/* <Route component={Errors} /> */}
 					<Route component={Maintenance} />
 				</Switch>
