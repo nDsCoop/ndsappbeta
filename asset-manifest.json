@@ -1,28 +1,29 @@
 {
   "files": {
     "main.css": "/ndsappbeta/static/css/main.524baaaa.chunk.css",
-    "main.js": "/ndsappbeta/static/js/main.31b7b5e5.chunk.js",
-    "main.js.map": "/ndsappbeta/static/js/main.31b7b5e5.chunk.js.map",
+    "main.js": "/ndsappbeta/static/js/main.30cf5e38.chunk.js",
+    "main.js.map": "/ndsappbeta/static/js/main.30cf5e38.chunk.js.map",
     "runtime-main.js": "/ndsappbeta/static/js/runtime-main.537b08a8.js",
     "runtime-main.js.map": "/ndsappbeta/static/js/runtime-main.537b08a8.js.map",
-    "static/js/2.088f27d3.chunk.js": "/ndsappbeta/static/js/2.088f27d3.chunk.js",
-    "static/js/2.088f27d3.chunk.js.map": "/ndsappbeta/static/js/2.088f27d3.chunk.js.map",
+    "static/js/2.25d10649.chunk.js": "/ndsappbeta/static/js/2.25d10649.chunk.js",
+    "static/js/2.25d10649.chunk.js.map": "/ndsappbeta/static/js/2.25d10649.chunk.js.map",
     "index.html": "/ndsappbeta/index.html",
-    "precache-manifest.72f6b5dc18688612aab929d7da192053.js": "/ndsappbeta/precache-manifest.72f6b5dc18688612aab929d7da192053.js",
+    "precache-manifest.13b324a72607f94e0601e46b241feaea.js": "/ndsappbeta/precache-manifest.13b324a72607f94e0601e46b241feaea.js",
     "service-worker.js": "/ndsappbeta/service-worker.js",
     "static/css/main.524baaaa.chunk.css.map": "/ndsappbeta/static/css/main.524baaaa.chunk.css.map",
-    "static/js/2.088f27d3.chunk.js.LICENSE.txt": "/ndsappbeta/static/js/2.088f27d3.chunk.js.LICENSE.txt",
+    "static/js/2.25d10649.chunk.js.LICENSE.txt": "/ndsappbeta/static/js/2.25d10649.chunk.js.LICENSE.txt",
     "static/media/Logosvg2.svg": "/ndsappbeta/static/media/Logosvg2.7106cd73.svg",
     "static/media/App.css": "/ndsappbeta/static/media/defaultBg2.c59b12ed.jpg",
     "static/media/svgnds.png": "/ndsappbeta/static/media/svgnds.73ead5f6.png",
     "static/media/videobgr1.mp4": "/ndsappbeta/static/media/videobgr1.855c1879.mp4",
     "static/media/videobgr3.mp4": "/ndsappbeta/static/media/videobgr3.28fb8ceb.mp4",
-    "static/media/videobgr5.mp4": "/ndsappbeta/static/media/videobgr5.857b6cd6.mp4"
+    "static/media/videobgr5.mp4": "/ndsappbeta/static/media/videobgr5.857b6cd6.mp4",
+    "static/media/videobgr6.mp4": "/ndsappbeta/static/media/videobgr6.fb38e7d1.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.537b08a8.js",
-    "static/js/2.088f27d3.chunk.js",
+    "static/js/2.25d10649.chunk.js",
     "static/css/main.524baaaa.chunk.css",
-    "static/js/main.31b7b5e5.chunk.js"
+    "static/js/main.30cf5e38.chunk.js"
   ]
 }
