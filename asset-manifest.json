@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ndsappbeta/static/css/main.6e83454f.chunk.css",
-    "main.js": "/ndsappbeta/static/js/main.a0de4f10.chunk.js",
-    "main.js.map": "/ndsappbeta/static/js/main.a0de4f10.chunk.js.map",
-    "runtime-main.js": "/ndsappbeta/static/js/runtime-main.8c03ce7b.js",
-    "runtime-main.js.map": "/ndsappbeta/static/js/runtime-main.8c03ce7b.js.map",
-    "static/js/2.27fc59ca.chunk.js": "/ndsappbeta/static/js/2.27fc59ca.chunk.js",
-    "static/js/2.27fc59ca.chunk.js.map": "/ndsappbeta/static/js/2.27fc59ca.chunk.js.map",
+    "main.css": "/ndsappbeta/static/css/main.4e253f30.chunk.css",
+    "main.js": "/ndsappbeta/static/js/main.2a892c3e.chunk.js",
+    "main.js.map": "/ndsappbeta/static/js/main.2a892c3e.chunk.js.map",
+    "runtime-main.js": "/ndsappbeta/static/js/runtime-main.c78a7c35.js",
+    "runtime-main.js.map": "/ndsappbeta/static/js/runtime-main.c78a7c35.js.map",
+    "static/js/2.8b9d27ef.chunk.js": "/ndsappbeta/static/js/2.8b9d27ef.chunk.js",
+    "static/js/2.8b9d27ef.chunk.js.map": "/ndsappbeta/static/js/2.8b9d27ef.chunk.js.map",
     "static/js/3.54d1f31e.chunk.js": "/ndsappbeta/static/js/3.54d1f31e.chunk.js",
     "static/js/3.54d1f31e.chunk.js.map": "/ndsappbeta/static/js/3.54d1f31e.chunk.js.map",
-    "static/js/4.737e857a.chunk.js": "/ndsappbeta/static/js/4.737e857a.chunk.js",
-    "static/js/4.737e857a.chunk.js.map": "/ndsappbeta/static/js/4.737e857a.chunk.js.map",
+    "static/js/4.614bdcf8.chunk.js": "/ndsappbeta/static/js/4.614bdcf8.chunk.js",
+    "static/js/4.614bdcf8.chunk.js.map": "/ndsappbeta/static/js/4.614bdcf8.chunk.js.map",
     "static/js/5.e4d1ba8f.chunk.js": "/ndsappbeta/static/js/5.e4d1ba8f.chunk.js",
     "static/js/5.e4d1ba8f.chunk.js.map": "/ndsappbeta/static/js/5.e4d1ba8f.chunk.js.map",
     "static/js/6.5c0de2f0.chunk.js": "/ndsappbeta/static/js/6.5c0de2f0.chunk.js",
@@ -24,10 +24,10 @@
     "static/js/10.fb062610.chunk.js": "/ndsappbeta/static/js/10.fb062610.chunk.js",
     "static/js/10.fb062610.chunk.js.map": "/ndsappbeta/static/js/10.fb062610.chunk.js.map",
     "index.html": "/ndsappbeta/index.html",
-    "precache-manifest.d9a648ff93284b35a920689c12f2d831.js": "/ndsappbeta/precache-manifest.d9a648ff93284b35a920689c12f2d831.js",
+    "precache-manifest.66b116616decf963261074778bb82d64.js": "/ndsappbeta/precache-manifest.66b116616decf963261074778bb82d64.js",
     "service-worker.js": "/ndsappbeta/service-worker.js",
-    "static/css/main.6e83454f.chunk.css.map": "/ndsappbeta/static/css/main.6e83454f.chunk.css.map",
-    "static/js/2.27fc59ca.chunk.js.LICENSE.txt": "/ndsappbeta/static/js/2.27fc59ca.chunk.js.LICENSE.txt",
+    "static/css/main.4e253f30.chunk.css.map": "/ndsappbeta/static/css/main.4e253f30.chunk.css.map",
+    "static/js/2.8b9d27ef.chunk.js.LICENSE.txt": "/ndsappbeta/static/js/2.8b9d27ef.chunk.js.LICENSE.txt",
     "static/media/CompletedTick.svg": "/ndsappbeta/static/media/CompletedTick.ffcb10fd.svg",
     "static/media/DownloadIcon.svg": "/ndsappbeta/static/media/DownloadIcon.e927ae19.svg",
     "static/media/Logosvg2.svg": "/ndsappbeta/static/media/Logosvg2.7106cd73.svg",
@@ -53,9 +53,9 @@
     "static/media/videobgr6.mp4": "/ndsappbeta/static/media/videobgr6.fb38e7d1.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c03ce7b.js",
-    "static/js/2.27fc59ca.chunk.js",
-    "static/css/main.6e83454f.chunk.css",
-    "static/js/main.a0de4f10.chunk.js"
+    "static/js/runtime-main.c78a7c35.js",
+    "static/js/2.8b9d27ef.chunk.js",
+    "static/css/main.4e253f30.chunk.css",
+    "static/js/main.2a892c3e.chunk.js"
   ]
 }
