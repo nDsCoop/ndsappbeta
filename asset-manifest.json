@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ndsappbeta/static/css/main.55b17bb8.chunk.css",
+    "main.css": "/ndsappbeta/static/css/main.85973553.chunk.css",
     "main.js": "/ndsappbeta/static/js/main.5fd25779.chunk.js",
     "main.js.map": "/ndsappbeta/static/js/main.5fd25779.chunk.js.map",
     "runtime-main.js": "/ndsappbeta/static/js/runtime-main.c78a7c35.js",
@@ -24,9 +24,9 @@
     "static/js/10.fb062610.chunk.js": "/ndsappbeta/static/js/10.fb062610.chunk.js",
     "static/js/10.fb062610.chunk.js.map": "/ndsappbeta/static/js/10.fb062610.chunk.js.map",
     "index.html": "/ndsappbeta/index.html",
-    "precache-manifest.393f2a2f89b1c6fbbda6d046fca04f03.js": "/ndsappbeta/precache-manifest.393f2a2f89b1c6fbbda6d046fca04f03.js",
+    "precache-manifest.2f3d0613d4b188dd45b1ba970cd8a0c1.js": "/ndsappbeta/precache-manifest.2f3d0613d4b188dd45b1ba970cd8a0c1.js",
     "service-worker.js": "/ndsappbeta/service-worker.js",
-    "static/css/main.55b17bb8.chunk.css.map": "/ndsappbeta/static/css/main.55b17bb8.chunk.css.map",
+    "static/css/main.85973553.chunk.css.map": "/ndsappbeta/static/css/main.85973553.chunk.css.map",
     "static/js/2.8b9d27ef.chunk.js.LICENSE.txt": "/ndsappbeta/static/js/2.8b9d27ef.chunk.js.LICENSE.txt",
     "static/media/CompletedTick.svg": "/ndsappbeta/static/media/CompletedTick.ffcb10fd.svg",
     "static/media/DownloadIcon.svg": "/ndsappbeta/static/media/DownloadIcon.e927ae19.svg",
@@ -55,7 +55,7 @@
   "entrypoints": [
     "static/js/runtime-main.c78a7c35.js",
     "static/js/2.8b9d27ef.chunk.js",
-    "static/css/main.55b17bb8.chunk.css",
+    "static/css/main.85973553.chunk.css",
     "static/js/main.5fd25779.chunk.js"
   ]
 }
